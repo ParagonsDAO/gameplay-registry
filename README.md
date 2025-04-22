@@ -12,7 +12,11 @@ Gameplay meta definitions for priming.xyz
 
 ```
 The workflow can be configured with the `edit` function (it retains previous settings)
-{ "period": 30, "coverage": 0.6 }
+{
+  "period": 30,
+  "coverage": 0.6,
+  "updateFromRegistry": true
+}
 ```
 
 ### Review Metrics
