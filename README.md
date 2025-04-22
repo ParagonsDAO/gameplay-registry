@@ -10,7 +10,7 @@
 - https://cloud.temporal.io/namespaces/pacman.kvnrv/schedules/staging_enrich_parallel_deck_archetypes
 
 ```
-The workflow can be configured with the `edit` function
+The workflow can be configured with the `edit` function (it retains previous settings)
 { "period": 30, "coverage": 0.6 }
 ```
 
